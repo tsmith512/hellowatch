@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "tsmith512",
+    "longName": "HelloWatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "HelloWatch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "59f8621e-2468-4200-bdb9-9228aae25438",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
